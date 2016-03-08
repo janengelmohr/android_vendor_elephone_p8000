@@ -146,7 +146,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/etc/wifi/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf \
     vendor/elephone/p8000/proprietary/system/lib/drm/libdrmmtkplugin.so:system/lib/drm/libdrmmtkplugin.so \
     vendor/elephone/p8000/proprietary/system/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
-    vendor/elephone/p8000/proprietary/system/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
     vendor/elephone/p8000/proprietary/system/lib/hw/audio.primary.mt6753.so:system/lib/hw/audio.primary.mt6753.so \
     vendor/elephone/p8000/proprietary/system/lib/libmmsdkservice.feature_platform.so:system/lib/libmmsdkservice.feature_platform.so \
     vendor/elephone/p8000/proprietary/system/lib64/libmmsdkservice.feature_platform.so:system/lib64/libmmsdkservice.feature_platform.so \
@@ -333,7 +332,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib/libpppbtdun.so:system/lib/libpppbtdun.so \
     vendor/elephone/p8000/proprietary/system/lib/libpq_cust.so:system/lib/libpq_cust.so \
     vendor/elephone/p8000/proprietary/system/lib/libpq_prot.so:system/lib/libpq_prot.so \
-    vendor/elephone/p8000/proprietary/system/lib/libGLESv3.so:system/lib/libGLESv3.so \
     vendor/elephone/p8000/proprietary/system/lib/libJniAtvService.so:system/lib/libJniAtvService.so \
     vendor/elephone/p8000/proprietary/system/lib/librilmtk.so:system/lib/librilmtk.so \
     vendor/elephone/p8000/proprietary/system/lib/librilmtkmd2.so:system/lib/librilmtkmd2.so \
@@ -367,7 +365,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib/mtk-rilmd2.so:system/lib/mtk-rilmd2.so \
     vendor/elephone/p8000/proprietary/system/lib64/mtk-ril.so:system/lib64/mtk-ril.so \
     vendor/elephone/p8000/proprietary/system/lib64/mtk-rilmd2.so:system/lib64/mtk-rilmd2.so \
-    vendor/elephone/p8000/proprietary/system/lib64/egl/libGLES_android.so:system/lib64/egl/libGLES_android.so \
     vendor/elephone/p8000/proprietary/system/lib64/hw/audio.primary.mt6753.so:system/lib64/hw/audio.primary.mt6753.so \
     vendor/elephone/p8000/proprietary/system/lib64/hw/camera.mt6753.so:system/lib64/hw/camera.mt6753.so \
     vendor/elephone/p8000/proprietary/system/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
@@ -501,7 +498,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib64/libmtklimiter.so:system/lib64/libmtklimiter.so \
     vendor/elephone/p8000/proprietary/system/lib64/libmtkplayer.so:system/lib64/libmtkplayer.so \
     vendor/elephone/p8000/proprietary/system/lib64/libmtkshifter.so:system/lib64/libmtkshifter.so \
-    vendor/elephone/p8000/proprietary/system/lib64/libGLESv3.so:system/lib64/libGLESv3.so \
     vendor/elephone/p8000/proprietary/system/lib64/liblogwrap.so:system/lib64/liblogwrap.so \
     vendor/elephone/p8000/proprietary/system/lib64/libn3d3a.so:system/lib64/libn3d3a.so \
     vendor/elephone/p8000/proprietary/system/lib64/libnativecheck-jni.so:system/lib64/libnativecheck-jni.so \
@@ -535,8 +531,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/usr/keylayout/AVRCP.kl:system/usr/keylayout/AVRCP.kl \
     vendor/elephone/p8000/proprietary/system/usr/keylayout/mtk-kpd.kl:system/usr/keylayout/mtk-kpd.kl \
     vendor/elephone/p8000/proprietary/system/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
-    vendor/elephone/p8000/proprietary/system/lib/libEGL.so:system/lib/libEGL.so \
-    vendor/elephone/p8000/proprietary/system/lib64/libEGL.so:system/lib64/libEGL.so \
     vendor/elephone/p8000/proprietary/system/lib/egl/libGLES_mali.so:system/lib/egl/libGLES_mali.so \
     vendor/elephone/p8000/proprietary/system/lib64/egl/libGLES_mali.so:system/lib64/egl/libGLES_mali.so \
     vendor/elephone/p8000/proprietary/system/vendor/lib/hw/audio.a2dp.blueangel.so:system/vendor/lib/hw/audio.a2dp.blueangel.so \
