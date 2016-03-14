@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/bin/MtkCodecService:system/bin/MtkCodecService \
     vendor/elephone/p8000/proprietary/system/bin/aee:system/bin/aee \
     vendor/elephone/p8000/proprietary/system/bin/aee_archive:system/bin/aee_archive \
-    vendor/elephone/p8000/proprietary/system/bin/aee_core_forwarder:system/bin/aee_core_forwarder \
     vendor/elephone/p8000/proprietary/system/bin/aee_dumpstate:system/bin/aee_dumpstate \
     vendor/elephone/p8000/proprietary/system/bin/akmd8963:system/bin/akmd8963 \
     vendor/elephone/p8000/proprietary/system/bin/akmd8975:system/bin/akmd8975 \
