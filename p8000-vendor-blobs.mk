@@ -20,9 +20,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/bin/6620_wmt_lpbk:system/bin/6620_wmt_lpbk \
     vendor/elephone/p8000/proprietary/system/bin/AcdApiDaemon:system/bin/AcdApiDaemon \
     vendor/elephone/p8000/proprietary/system/bin/MtkCodecService:system/bin/MtkCodecService \
-    vendor/elephone/p8000/proprietary/system/bin/aee:system/bin/aee \
-    vendor/elephone/p8000/proprietary/system/bin/aee_archive:system/bin/aee_archive \
-    vendor/elephone/p8000/proprietary/system/bin/aee_dumpstate:system/bin/aee_dumpstate \
     vendor/elephone/p8000/proprietary/system/bin/akmd8963:system/bin/akmd8963 \
     vendor/elephone/p8000/proprietary/system/bin/akmd8975:system/bin/akmd8975 \
     vendor/elephone/p8000/proprietary/system/bin/ami304d:system/bin/ami304d \
