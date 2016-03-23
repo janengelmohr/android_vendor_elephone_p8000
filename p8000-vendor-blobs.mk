@@ -270,7 +270,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib/libged.so:system/lib/libged.so \
     vendor/elephone/p8000/proprietary/system/lib/libgifEncoder_jni.so:system/lib/libgifEncoder_jni.so \
     vendor/elephone/p8000/proprietary/system/lib/libgpu_aux.so:system/lib/libgpu_aux.so \
-    vendor/elephone/p8000/proprietary/system/lib/libgralloc_extra.so:system/lib/libgralloc_extra.so \
     vendor/elephone/p8000/proprietary/system/lib/libgraphite2.so:system/lib/libgraphite2.so \
     vendor/elephone/p8000/proprietary/system/lib/libgui_ext.so:system/lib/libgui_ext.so \
     vendor/elephone/p8000/proprietary/system/lib/libhotknot.so:system/lib/libhotknot.so \
@@ -462,7 +461,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib64/libfmmt6627.so:system/lib64/libfmmt6627.so \
     vendor/elephone/p8000/proprietary/system/lib64/libged.so:system/lib64/libged.so \
     vendor/elephone/p8000/proprietary/system/lib64/libgpu_aux.so:system/lib64/libgpu_aux.so \
-    vendor/elephone/p8000/proprietary/system/lib64/libgralloc_extra.so:system/lib64/libgralloc_extra.so \
     vendor/elephone/p8000/proprietary/system/lib64/libgraphite2.so:system/lib64/libgraphite2.so \
     vendor/elephone/p8000/proprietary/system/lib64/libgui_ext.so:system/lib64/libgui_ext.so \
     vendor/elephone/p8000/proprietary/system/lib64/libhotknot.so:system/lib64/libhotknot.so \
