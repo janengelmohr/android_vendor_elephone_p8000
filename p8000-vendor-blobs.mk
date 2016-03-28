@@ -584,11 +584,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib64/libmmsdkservice.feature.so:system/lib64/libmmsdkservice.feature.so \
     vendor/elephone/p8000/proprietary/system/lib/libfeatureiodrv.so:system/lib/libfeatureiodrv.so \
     vendor/elephone/p8000/proprietary/system/lib64/libfeatureiodrv.so:system/lib64/libfeatureiodrv.so \
-    vendor/elephone/p8000/proprietary/system/lib/libsileadinc_dev.so:system/lib/libsileadinc_dev.so \
-    vendor/elephone/p8000/proprietary/system/lib/libslfpjni.so:system/lib/libslfpjni.so \
-    vendor/elephone/p8000/proprietary/system/lib64/libsileadinc_dev.so:system/lib64/libsileadinc_dev.so \
-    vendor/elephone/p8000/proprietary/system/lib64/libslfpjni.so:system/lib64/libslfpjni.so \
-    vendor/elephone/p8000/proprietary/system/lib64/libslfpauth.a:system/lib64/libslfpauth.a \
     vendor/elephone/p8000/proprietary/system/lib/libcameraservice.so:system/lib/libcameraservice.so \
     vendor/elephone/p8000/proprietary/system/lib64/libcameraservice.so:system/lib64/libcameraservice.so \
     vendor/elephone/p8000/proprietary/system/lib64/libMtkOmxAdpcmDec.so:system/lib64/libMtkOmxAdpcmDec.so \
@@ -599,4 +594,19 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib64/libMtkOmxGsmDec.so:system/lib64/libMtkOmxGsmDec.so \
     vendor/elephone/p8000/proprietary/system/lib64/libMtkOmxMp3Dec.so:system/lib64/libMtkOmxMp3Dec.so \
     vendor/elephone/p8000/proprietary/system/lib64/libMtkOmxRawDec.so:system/lib64/libMtkOmxRawDec.so \
-    vendor/elephone/p8000/proprietary/system/lib64/libMtkOmxVorbisEnc.so:system/lib64/libMtkOmxVorbisEnc.so
+    vendor/elephone/p8000/proprietary/system/lib64/libMtkOmxVorbisEnc.so:system/lib64/libMtkOmxVorbisEnc.so \
+    vendor/elephone/p8000/proprietary/system/lib64/libaslxml.so:system/lib64/libaslxml.so \
+    vendor/elephone/p8000/proprietary/system/lib64/libfpcal.so:system/lib64/libfpcal.so \
+    vendor/elephone/p8000/proprietary/system/lib64/libfpsvc.so:system/lib64/libfpsvc.so \
+    vendor/elephone/p8000/proprietary/system/lib64/libfpsvcd_remoteapi.so:system/lib64/libfpsvcd_remoteapi.so \
+    vendor/elephone/p8000/proprietary/system/lib64/libslbase.so:system/lib64/libslbase.so \
+    vendor/elephone/p8000/proprietary/system/lib64/libslcryption.so:system/lib64/libslcryption.so \
+    vendor/elephone/p8000/proprietary/system/lib64/libslfpauth.a:system/lib64/libslfpauth.a \
+    vendor/elephone/p8000/proprietary/system/lib64/libslfpjni.so:system/lib64/libslfpjni.so \
+    vendor/elephone/p8000/proprietary/system/lib64/libslos.so:system/lib64/libslos.so \
+    vendor/elephone/p8000/proprietary/system/lib64/libslversion.a:system/lib64/libslversion.a \
+    vendor/elephone/p8000/proprietary/system/bin/aosinfo:system/bin/aosinfo \
+    vendor/elephone/p8000/proprietary/system/lib64/libsysparm.so:system/lib64/libsysparm.so \
+    vendor/elephone/p8000/proprietary/system/etc/silead/log_cfg.xml:system/etc/silead/log_cfg.xml \
+    vendor/elephone/p8000/proprietary/system/etc/silead/silead_config.xml:system/etc/silead/silead_config.xml \
+    vendor/elephone/p8000/proprietary/system/etc/silead/silead_param.xml:system/etc/silead/silead_param.xml 
