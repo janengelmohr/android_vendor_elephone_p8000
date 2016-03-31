@@ -9,11 +9,11 @@
 <!--log_lvl str_dec="SL_LOG_UNKNOWN">0</log_lvl-->
 <!--log_lvl str_dec="DEFAULT">1</log_lvl-->
 <!--log_lvl str_dec="VERBOSE">2</log_lvl-->
-<log_lvl str_dec="DEBUG">3</log_lvl>
+<!--<log_lvl str_dec="DEBUG">3</log_lvl> -->
 <!--log_lvl str_dec="INFO">4</log_lvl-->
 <!--log_lvl str_dec="WARN">5</log_lvl-->
 <!--log_lvl str_dec="ERROR">6</log_lvl-->
-<!--log_lvl str_dec="FATAL">7</log_lvl-->
-<!--log_lvl str_dec="SILENT">8</log_lvl-->
+<!--<log_lvl str_dec="FATAL">7</log_lvl> -->
+<log_lvl str_dec="SILENT">8</log_lvl>
 <!--log_lvl str_dec="SILENT">9</log_lvl-->
 </sl_log>
