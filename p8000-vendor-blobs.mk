@@ -38,7 +38,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/bin/dhcp6c:system/bin/dhcp6c \
     vendor/elephone/p8000/proprietary/system/bin/dhcp6ctl:system/bin/dhcp6ctl \
     vendor/elephone/p8000/proprietary/system/bin/dhcp6s:system/bin/dhcp6s \
-    vendor/elephone/p8000/proprietary/system/bin/dmlog:system/bin/dmlog \
     vendor/elephone/p8000/proprietary/system/bin/dualmdlogger:system/bin/dualmdlogger \
     vendor/elephone/p8000/proprietary/system/bin/em_svr:system/bin/em_svr \
     vendor/elephone/p8000/proprietary/system/bin/emdlogger1:system/bin/emdlogger1 \
