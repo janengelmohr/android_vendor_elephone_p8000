@@ -37,9 +37,7 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/bin/dhcp6c:system/bin/dhcp6c \
     vendor/elephone/p8000/proprietary/system/bin/dhcp6ctl:system/bin/dhcp6ctl \
     vendor/elephone/p8000/proprietary/system/bin/dhcp6s:system/bin/dhcp6s \
-    vendor/elephone/p8000/proprietary/system/bin/dualmdlogger:system/bin/dualmdlogger \
     vendor/elephone/p8000/proprietary/system/bin/em_svr:system/bin/em_svr \
-    vendor/elephone/p8000/proprietary/system/bin/emdlogger1:system/bin/emdlogger1 \
     vendor/elephone/p8000/proprietary/system/bin/fsck_msdos_mtk:system/bin/fsck_msdos_mtk \
     vendor/elephone/p8000/proprietary/system/bin/fuelgauged:system/bin/fuelgauged \
     vendor/elephone/p8000/proprietary/system/bin/geomagneticd:system/bin/geomagneticd \
@@ -55,14 +53,12 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/bin/matv:system/bin/matv \
     vendor/elephone/p8000/proprietary/system/bin/mc6420d:system/bin/mc6420d \
     vendor/elephone/p8000/proprietary/system/bin/md_ctrl:system/bin/md_ctrl \
-    vendor/elephone/p8000/proprietary/system/bin/mdlogger:system/bin/mdlogger \
     vendor/elephone/p8000/proprietary/system/bin/memorydumper:system/bin/memorydumper \
     vendor/elephone/p8000/proprietary/system/bin/memsicd:system/bin/memsicd \
     vendor/elephone/p8000/proprietary/system/bin/memsicd3416x:system/bin/memsicd3416x \
     vendor/elephone/p8000/proprietary/system/bin/meta_tst:system/bin/meta_tst \
     vendor/elephone/p8000/proprietary/system/bin/mfv_ut:system/bin/mfv_ut \
     vendor/elephone/p8000/proprietary/system/bin/mmp:system/bin/mmp \
-    vendor/elephone/p8000/proprietary/system/bin/mobile_log_d:system/bin/mobile_log_d \
     vendor/elephone/p8000/proprietary/system/bin/msensord:system/bin/msensord \
     vendor/elephone/p8000/proprietary/system/bin/mtk_agpsd:system/bin/mtk_agpsd \
     vendor/elephone/p8000/proprietary/system/bin/mtk_setprop:system/bin/mtk_setprop \
