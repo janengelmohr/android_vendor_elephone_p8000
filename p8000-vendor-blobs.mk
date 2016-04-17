@@ -28,7 +28,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/bin/audiocmdservice_atci:system/bin/audiocmdservice_atci \
     vendor/elephone/p8000/proprietary/system/bin/autokd:system/bin/autokd \
     vendor/elephone/p8000/proprietary/system/bin/badblocks:system/bin/badblocks \
-    vendor/elephone/p8000/proprietary/system/bin/batterywarning:system/bin/batterywarning \
     vendor/elephone/p8000/proprietary/system/bin/boot_logo_updater:system/bin/boot_logo_updater \
     vendor/elephone/p8000/proprietary/system/bin/factory:system/bin/factory \
     vendor/elephone/p8000/proprietary/system/bin/fotabinder:system/bin/fotabinder \
