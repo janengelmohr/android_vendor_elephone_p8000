@@ -42,7 +42,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/bin/geomagneticd:system/bin/geomagneticd \
     vendor/elephone/p8000/proprietary/system/bin/gsm0710muxd:system/bin/gsm0710muxd \
     vendor/elephone/p8000/proprietary/system/bin/gsm0710muxdmd2:system/bin/gsm0710muxdmd2 \
-    vendor/elephone/p8000/proprietary/system/bin/guiext-server:system/bin/guiext-server \
     vendor/elephone/p8000/proprietary/system/bin/hostapd:system/bin/hostapd \
     vendor/elephone/p8000/proprietary/system/bin/hostapd_cli:system/bin/hostapd_cli \
     vendor/elephone/p8000/proprietary/system/bin/kpoc_charger:system/bin/kpoc_charger \
