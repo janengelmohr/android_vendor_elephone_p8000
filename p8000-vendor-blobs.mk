@@ -37,6 +37,7 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/bin/dhcp6c:system/bin/dhcp6c \
     vendor/elephone/p8000/proprietary/system/bin/dhcp6ctl:system/bin/dhcp6ctl \
     vendor/elephone/p8000/proprietary/system/bin/dhcp6s:system/bin/dhcp6s \
+    vendor/elephone/p8000/proprietary/system/bin/em_svr:system/bin/em_svr \
     vendor/elephone/p8000/proprietary/system/bin/fsck_msdos_mtk:system/bin/fsck_msdos_mtk \
     vendor/elephone/p8000/proprietary/system/bin/fuelgauged:system/bin/fuelgauged \
     vendor/elephone/p8000/proprietary/system/bin/geomagneticd:system/bin/geomagneticd \
