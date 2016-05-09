@@ -62,7 +62,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/bin/mtkbt:system/bin/mtkbt \
     vendor/elephone/p8000/proprietary/system/bin/mtkrild:system/bin/mtkrild \
     vendor/elephone/p8000/proprietary/system/bin/mtkrildmd2:system/bin/mtkrildmd2 \
-    vendor/elephone/p8000/proprietary/system/bin/muxreport:system/bin/muxreport \
     vendor/elephone/p8000/proprietary/system/bin/netcfg:system/bin/netcfg \
     vendor/elephone/p8000/proprietary/system/bin/netdiag:system/bin/netdiag \
     vendor/elephone/p8000/proprietary/system/bin/nvram_agent_binder:system/bin/nvram_agent_binder \
