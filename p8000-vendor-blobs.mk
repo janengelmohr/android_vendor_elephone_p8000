@@ -85,7 +85,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/bin/tiny_mkswap:system/bin/tiny_mkswap \
     vendor/elephone/p8000/proprietary/system/bin/tiny_swapoff:system/bin/tiny_swapoff \
     vendor/elephone/p8000/proprietary/system/bin/tiny_swapon:system/bin/tiny_swapon \
-    vendor/elephone/p8000/proprietary/system/bin/wifi2agps:system/bin/wifi2agps \
     vendor/elephone/p8000/proprietary/system/bin/wmt_loader:system/bin/wmt_loader \
     vendor/elephone/p8000/proprietary/system/bin/xlog:system/bin/xlog \
     vendor/elephone/p8000/proprietary/system/etc/bluetooth/auto_pair_blacklist.conf:system/etc/bluetooth/auto_pair_blacklist.conf \
