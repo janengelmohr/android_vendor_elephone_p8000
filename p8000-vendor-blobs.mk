@@ -79,8 +79,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/bin/rtt:system/bin/rtt \
     vendor/elephone/p8000/proprietary/system/bin/run-as:system/bin/run-as \
     vendor/elephone/p8000/proprietary/system/bin/s62xd:system/bin/s62xd \
-    vendor/elephone/p8000/proprietary/system/bin/terservice:system/bin/terservice \
-    vendor/elephone/p8000/proprietary/system/bin/tertestclient:system/bin/tertestclient \
     vendor/elephone/p8000/proprietary/system/bin/thermal:system/bin/thermal \
     vendor/elephone/p8000/proprietary/system/bin/thermal_manager:system/bin/thermal_manager \
     vendor/elephone/p8000/proprietary/system/bin/thermald:system/bin/thermald \
