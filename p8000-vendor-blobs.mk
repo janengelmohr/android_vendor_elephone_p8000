@@ -23,8 +23,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/bin/akmd8963:system/bin/akmd8963 \
     vendor/elephone/p8000/proprietary/system/bin/akmd8975:system/bin/akmd8975 \
     vendor/elephone/p8000/proprietary/system/bin/ami304d:system/bin/ami304d \
-    vendor/elephone/p8000/proprietary/system/bin/atci_service:system/bin/atci_service \
-    vendor/elephone/p8000/proprietary/system/bin/atcid:system/bin/atcid \
     vendor/elephone/p8000/proprietary/system/bin/audiocmdservice_atci:system/bin/audiocmdservice_atci \
     vendor/elephone/p8000/proprietary/system/bin/autokd:system/bin/autokd \
     vendor/elephone/p8000/proprietary/system/bin/badblocks:system/bin/badblocks \
