@@ -560,7 +560,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib64/libmtksqlite3_android.so:system/lib64/libmtksqlite3_android.so \
     vendor/elephone/p8000/proprietary/system/bin/fpsvcd:system/bin/fpsvcd \
     vendor/elephone/p8000/proprietary/system/bin/akmd09911:system/bin/akmd09911 \
-    vendor/elephone/p8000/proprietary/system/bin/program_binary_service:system/bin/program_binary_service \
     vendor/elephone/p8000/proprietary/system/bin/test/fpsvcd/auto_test.sh:system/bin/test/fpsvcd/auto_test.sh \
     vendor/elephone/p8000/proprietary/system/bin/test/fpsvcd/fpsvcd_c:system/bin/test/fpsvcd/fpsvcd_c \
     vendor/elephone/p8000/proprietary/system/bin/test/fpsvcd/fpsvcd_s:system/bin/test/fpsvcd/fpsvcd_s \
