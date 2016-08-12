@@ -215,7 +215,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib/libcam_utils.so:system/lib/libcam_utils.so \
     vendor/elephone/p8000/proprietary/system/lib/libcamalgo.so:system/lib/libcamalgo.so \
     vendor/elephone/p8000/proprietary/system/lib/libcamdrv.so:system/lib/libcamdrv.so \
-    vendor/elephone/p8000/proprietary/system/lib/libcamera_client.so:system/lib/libcamera_client.so \
     vendor/elephone/p8000/proprietary/system/lib/libcamera_client_mtk.so:system/lib/libcamera_client_mtk.so \
     vendor/elephone/p8000/proprietary/system/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/elephone/p8000/proprietary/system/lib/libcameracustom.so:system/lib/libcameracustom.so \
@@ -405,7 +404,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib64/libcam_utils.so:system/lib64/libcam_utils.so \
     vendor/elephone/p8000/proprietary/system/lib64/libcamalgo.so:system/lib64/libcamalgo.so \
     vendor/elephone/p8000/proprietary/system/lib64/libcamdrv.so:system/lib64/libcamdrv.so \
-    vendor/elephone/p8000/proprietary/system/lib64/libcamera_client.so:system/lib64/libcamera_client.so \
     vendor/elephone/p8000/proprietary/system/lib64/libcamera_client_mtk.so:system/lib64/libcamera_client_mtk.so \
     vendor/elephone/p8000/proprietary/system/lib64/libcamera_metadata.so:system/lib64/libcamera_metadata.so \
     vendor/elephone/p8000/proprietary/system/lib64/libcameracustom.so:system/lib64/libcameracustom.so \
@@ -572,8 +570,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib64/libmmsdkservice.feature.so:system/lib64/libmmsdkservice.feature.so \
     vendor/elephone/p8000/proprietary/system/lib/libfeatureiodrv.so:system/lib/libfeatureiodrv.so \
     vendor/elephone/p8000/proprietary/system/lib64/libfeatureiodrv.so:system/lib64/libfeatureiodrv.so \
-    vendor/elephone/p8000/proprietary/system/lib/libcameraservice.so:system/lib/libcameraservice.so \
-    vendor/elephone/p8000/proprietary/system/lib64/libcameraservice.so:system/lib64/libcameraservice.so \
     vendor/elephone/p8000/proprietary/system/lib64/libMtkOmxAdpcmDec.so:system/lib64/libMtkOmxAdpcmDec.so \
     vendor/elephone/p8000/proprietary/system/lib64/libMtkOmxAdpcmEnc.so:system/lib64/libMtkOmxAdpcmEnc.so \
     vendor/elephone/p8000/proprietary/system/lib64/libMtkOmxAlacDec.so:system/lib64/libMtkOmxAlacDec.so \
