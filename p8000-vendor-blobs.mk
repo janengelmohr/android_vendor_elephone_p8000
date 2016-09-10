@@ -91,6 +91,7 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/etc/bluetooth/auto_pair_blacklist.conf:system/etc/bluetooth/auto_pair_blacklist.conf \
     vendor/elephone/p8000/proprietary/system/etc/bluetooth/auto_pair_devlist.conf:system/etc/bluetooth/auto_pair_devlist.conf \
     vendor/elephone/p8000/proprietary/system/etc/bluetooth/bt_did.conf:system/etc/bluetooth/bt_did.conf \
+    vendor/elephone/p8000/proprietary/system/etc/bluetooth/ble_stack.conf:system/etc/bluetooth/ble_stack.conf \
     vendor/elephone/p8000/proprietary/system/etc/bluetooth/bt_stack.conf:system/etc/bluetooth/bt_stack.conf \
     vendor/elephone/p8000/proprietary/system/etc/bluetooth/btconfig.xml:system/etc/bluetooth/btconfig.xml \
     vendor/elephone/p8000/proprietary/system/etc/clatd.conf:system/etc/clatd.conf \
