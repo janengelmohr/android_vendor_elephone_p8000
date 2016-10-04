@@ -132,7 +132,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib64/libmmsdkservice.feature_platform.so:system/lib64/libmmsdkservice.feature_platform.so \
     vendor/elephone/p8000/proprietary/system/lib/hw/camera.mt6753.so:system/lib/hw/camera.mt6753.so \
     vendor/elephone/p8000/proprietary/system/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-    vendor/elephone/p8000/proprietary/system/lib/hw/lights.default.so:system/lib/hw/lights.default.so \
     vendor/elephone/p8000/proprietary/system/lib/hw/hwcomposer.mt6753.so:system/lib/hw/hwcomposer.mt6753.so \
     vendor/elephone/p8000/proprietary/system/lib/hw/mmsdk.default.so:system/lib/hw/mmsdk.default.so \
     vendor/elephone/p8000/proprietary/system/lib/hw/sensors.mt6753.so:system/lib/hw/sensors.mt6753.so \
@@ -343,7 +342,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib64/hw/audio.primary.mt6753.so:system/lib64/hw/audio.primary.mt6753.so \
     vendor/elephone/p8000/proprietary/system/lib64/hw/camera.mt6753.so:system/lib64/hw/camera.mt6753.so \
     vendor/elephone/p8000/proprietary/system/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
-    vendor/elephone/p8000/proprietary/system/lib64/hw/lights.default.so:system/lib64/hw/lights.default.so \
     vendor/elephone/p8000/proprietary/system/lib64/hw/hwcomposer.mt6753.so:system/lib64/hw/hwcomposer.mt6753.so \
     vendor/elephone/p8000/proprietary/system/lib64/hw/mmsdk.default.so:system/lib64/hw/mmsdk.default.so \
     vendor/elephone/p8000/proprietary/system/lib64/hw/sensors.mt6753.so:system/lib64/hw/sensors.mt6753.so \
