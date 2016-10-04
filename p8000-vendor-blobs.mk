@@ -353,6 +353,10 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib64/libMtkOmxCore.so:system/lib64/libMtkOmxCore.so \
     vendor/elephone/p8000/proprietary/system/lib64/libMtkVideoTranscoder.so:system/lib64/libMtkVideoTranscoder.so \
     vendor/elephone/p8000/proprietary/system/lib/drm/libdrmctaplugin.so:system/lib/drm/libdrmctaplugin.so \
+    vendor/elephone/p8000/proprietary/system/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/lib/drm/libdrmclearkeyplugin.so \
+    vendor/elephone/p8000/proprietary/system/vendor/lib64/mediadrm/libdrmclearkeyplugin.so:system/lib64/drm/libdrmclearkeyplugin.so \
+    vendor/elephone/p8000/proprietary/system/lib64/drm/libdrmctaplugin.so:system/lib64/drm/libdrmctaplugin.so \
+    vendor/elephone/p8000/proprietary/system/lib64/drm/libdrmmtkplugin.so:system/lib64/drm/libdrmmtkplugin.so \
     vendor/elephone/p8000/proprietary/system/lib64/libPQDCjni.so:system/lib64/libPQDCjni.so \
     vendor/elephone/p8000/proprietary/system/lib64/libPQjni.so:system/lib64/libPQjni.so \
     vendor/elephone/p8000/proprietary/system/lib64/libSwJpgCodec.so:system/lib64/libSwJpgCodec.so \
