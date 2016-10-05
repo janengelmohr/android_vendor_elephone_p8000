@@ -310,6 +310,10 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib/libJniAtvService.so:system/lib/libJniAtvService.so \
     vendor/elephone/p8000/proprietary/system/lib/librilmtk.so:system/lib/librilmtk.so \
     vendor/elephone/p8000/proprietary/system/lib/librilmtkmd2.so:system/lib/librilmtkmd2.so \
+    vendor/elephone/p8000/proprietary/system/lib/libmal.so:system/lib/libmal.so \
+    vendor/elephone/p8000/proprietary/system/lib64/libmal.so:system/lib64/libmal.so \
+    vendor/elephone/p8000/proprietary/system/lib/libmdfx.so:system/lib/libmdfx.so \
+    vendor/elephone/p8000/proprietary/system/lib64/libmdfx.so:system/lib64/libmdfx.so \
     vendor/elephone/p8000/proprietary/system/lib/libsbccodec.so:system/lib/libsbccodec.so \
     vendor/elephone/p8000/proprietary/system/lib/libsec.so:system/lib/libsec.so \
     vendor/elephone/p8000/proprietary/system/lib/libshowlogo.so:system/lib/libshowlogo.so \
