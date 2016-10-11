@@ -331,8 +331,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib/libvcodec_utility.so:system/lib/libvcodec_utility.so \
     vendor/elephone/p8000/proprietary/system/lib/libvcodecdrv.so:system/lib/libvcodecdrv.so \
     vendor/elephone/p8000/proprietary/system/lib/libvie.so:system/lib/libvie.so \
-    vendor/elephone/p8000/proprietary/system/lib/libtinycompress.so:system/lib/libtinycompress.so \
-    vendor/elephone/p8000/proprietary/system/lib64/libtinycompress.so:system/lib64/libtinycompress.so \
     vendor/elephone/p8000/proprietary/system/lib/libvie_jni.so:system/lib/libvie_jni.so \
     vendor/elephone/p8000/proprietary/system/lib/libvoicerecognition.so:system/lib/libvoicerecognition.so \
     vendor/elephone/p8000/proprietary/system/lib/libvoicerecognition_jni.so:system/lib/libvoicerecognition_jni.so \
