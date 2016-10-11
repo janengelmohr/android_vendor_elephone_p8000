@@ -47,7 +47,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/bin/kpoc_charger:system/bin/kpoc_charger \
     vendor/elephone/p8000/proprietary/system/bin/lsm303md:system/bin/lsm303md \
     vendor/elephone/p8000/proprietary/system/bin/magd:system/bin/magd \
-    vendor/elephone/p8000/proprietary/system/bin/make_ext4fs:system/bin/make_ext4fs \
     vendor/elephone/p8000/proprietary/system/bin/matv:system/bin/matv \
     vendor/elephone/p8000/proprietary/system/bin/mc6420d:system/bin/mc6420d \
     vendor/elephone/p8000/proprietary/system/bin/md_ctrl:system/bin/md_ctrl \
