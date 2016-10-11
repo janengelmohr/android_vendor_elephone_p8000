@@ -295,7 +295,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib/libmtkshifter.so:system/lib/libmtkshifter.so \
     vendor/elephone/p8000/proprietary/system/lib/libn3d3a.so:system/lib/libn3d3a.so \
     vendor/elephone/p8000/proprietary/system/lib/libnativecheck-jni.so:system/lib/libnativecheck-jni.so \
-    vendor/elephone/p8000/proprietary/system/lib/libnetutils.so:system/lib/libnetutils.so \
     vendor/elephone/p8000/proprietary/system/lib/libnfc_ndef.so:system/lib/libnfc_ndef.so \
     vendor/elephone/p8000/proprietary/system/lib/libnvram.so:system/lib/libnvram.so \
     vendor/elephone/p8000/proprietary/system/lib/libnvram_daemon_callback.so:system/lib/libnvram_daemon_callback.so \
@@ -482,7 +481,6 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib64/libMtkOmxMp3Dec.so:system/lib64/libMtkOmxMp3Dec.so \
     vendor/elephone/p8000/proprietary/system/lib64/libMtkOmxRawDec.so:system/lib64/libMtkOmxRawDec.so \
     vendor/elephone/p8000/proprietary/system/lib64/libMtkOmxVorbisEnc.so:system/lib64/libMtkOmxVorbisEnc.so \
-    vendor/elephone/p8000/proprietary/system/lib64/libnetutils.so:system/lib64/libnetutils.so \
     vendor/elephone/p8000/proprietary/system/lib64/libnfc_ndef.so:system/lib64/libnfc_ndef.so \
     vendor/elephone/p8000/proprietary/system/lib64/libnvram.so:system/lib64/libnvram.so \
     vendor/elephone/p8000/proprietary/system/lib64/libnvram_daemon_callback.so:system/lib64/libnvram_daemon_callback.so \
