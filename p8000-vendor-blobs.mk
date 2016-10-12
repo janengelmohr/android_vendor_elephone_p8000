@@ -344,12 +344,8 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib64/mtk-rilmd2.so:system/lib64/mtk-rilmd2.so \
     vendor/elephone/p8000/proprietary/system/lib64/hw/audio.primary.mt6753.so:system/lib64/hw/audio.primary.mt6753.so \
     vendor/elephone/p8000/proprietary/system/lib64/hw/camera.mt6753.so:system/lib64/hw/camera.mt6753.so \
-<<<<<<< HEAD
     vendor/elephone/p8000/proprietary/system/lib64/hw/gps.mt6753.so:system/lib64/hw/gps.mt6753.so \
-=======
-    vendor/elephone/p8000/proprietary/system/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
     vendor/elephone/p8000/proprietary/system/lib64/hw/lights.default.so:system/lib64/hw/lights.default.so \
->>>>>>> parent of bbd51ca... build liblights from device tree
     vendor/elephone/p8000/proprietary/system/lib64/hw/hwcomposer.mt6753.so:system/lib64/hw/hwcomposer.mt6753.so \
     vendor/elephone/p8000/proprietary/system/lib64/hw/mmsdk.default.so:system/lib64/hw/mmsdk.default.so \
     vendor/elephone/p8000/proprietary/system/lib64/hw/sensors.mt6753.so:system/lib64/hw/sensors.mt6753.so \
