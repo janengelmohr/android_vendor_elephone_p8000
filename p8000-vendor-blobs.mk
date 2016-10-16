@@ -558,12 +558,14 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p8000/proprietary/system/lib/libdngop.so:system/lib/libdngop.so \
     vendor/elephone/p8000/proprietary/system/lib64/libdngop.so:system/lib64/libdngop.so \
     vendor/elephone/p8000/proprietary/system/etc/fmr/mt6627_fm_cust.cfg:system/etc/fmr/mt6627_fm_cust.cfg \
+    vendor/elephone/p8000/proprietary/system/etc/slp_conf:system/etc/slp_conf \
     vendor/elephone/p8000/proprietary/system/lib/libfmmt6630.so:system/lib/libfmmt6630.so \
     vendor/elephone/p8000/proprietary/system/lib64/libfmmt6630.so:system/lib64/libfmmt6630.so \
     vendor/elephone/p8000/proprietary/system/lib64/libmtksqlite3_custom.so:system/lib64/libmtksqlite3_custom.so \
     vendor/elephone/p8000/proprietary/system/lib64/libmtksqlite3_android.so:system/lib64/libmtksqlite3_android.so \
     vendor/elephone/p8000/proprietary/system/bin/fpsvcd:system/bin/fpsvcd \
     vendor/elephone/p8000/proprietary/system/bin/akmd09911:system/bin/akmd09911 \
+    vendor/elephone/p8000/proprietary/system/bin/slpd:system/bin/slpd \
     vendor/elephone/p8000/proprietary/system/bin/test/fpsvcd/auto_test.sh:system/bin/test/fpsvcd/auto_test.sh \
     vendor/elephone/p8000/proprietary/system/bin/test/fpsvcd/fpsvcd_c:system/bin/test/fpsvcd/fpsvcd_c \
     vendor/elephone/p8000/proprietary/system/bin/test/fpsvcd/fpsvcd_s:system/bin/test/fpsvcd/fpsvcd_s \
